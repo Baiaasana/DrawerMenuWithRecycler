@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DrawerMenu</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="item">Item</string>
+    <string name="fyneen">Fyneen</string>
+    <string name="personal">Personal</string>
+    <string name="business">Business</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="email">AmandaRachel@gmail.com</string>
+    <string name="username">Amanda Rachel</string>
+
+</resources>
